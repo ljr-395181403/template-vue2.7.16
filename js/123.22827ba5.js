@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue2_7_16"]=self["webpackChunkvue2_7_16"]||[]).push([[123],{4504:function(u,n,t){t.r(n),t.d(n,{default:function(){return _}});var e=function(){var u=this;u._self._c;return u._m(0)},s=[function(){var u=this,n=u._self._c;return n("div",{staticClass:"about"},[n("h1",[u._v("此项目是vue2模版")])])}],l=t(1656),r={},c=(0,l.A)(r,e,s,!1,null,null,null),_=c.exports}}]);
+//# sourceMappingURL=123.22827ba5.js.map

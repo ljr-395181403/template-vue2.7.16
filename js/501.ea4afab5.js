@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue2_7_16"]=self["webpackChunkvue2_7_16"]||[]).push([[501],{4501:function(u,n,e){e.r(n),e.d(n,{default:function(){return f}});var l=function(){var u=this,n=u._self._c;return n("div",[u._v("我是主页")])},t=[],r=e(1656),s={},c=(0,r.A)(s,l,t,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=501.ea4afab5.js.map
